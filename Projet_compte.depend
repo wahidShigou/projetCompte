@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1581970897 source:d:\l3gl\c++\projet_compte\main.cpp
+	<iostream>
+	"Date.h"
+
+1581971363 source:d:\l3gl\c++\projet_compte\src\date.cpp
+	"Date.h"
+	<ctime>
+	<sstream>
+
+1581971339 d:\l3gl\c++\projet_compte\include\date.h
+	<string>
+
+1581971880 source:d:\l3gl\c++\projet_compte\src\compte.cpp
+	"Compte.h"
+	<string>
+
+1581972819 d:\l3gl\c++\projet_compte\include\compte.h
+	<string>
+	<vector>
+	"Transaction.h"
+
+1581971719 d:\l3gl\c++\projet_compte\include\transaction.h
+	"Date.h"
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1581966746 source:d:\l3gl\c++\projet_compte\src\transaction.cpp
+	"Transaction.h"
+
+1581966788 source:d:\l3gl\c++\projet_compte\src\cheque.cpp
+	"Cheque.h"
+
+1581966821 d:\l3gl\c++\projet_compte\include\cheque.h
+	<string>
+	<Compte.h>
+
+1581966966 source:d:\l3gl\c++\projet_compte\src\epargne.cpp
+	"Epargne.h"
+	<string>
+
+1581971973 d:\l3gl\c++\projet_compte\include\epargne.h
+	<Compte.h>
+	<string>
+	"Date.h"
+
